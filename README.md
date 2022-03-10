@@ -1049,8 +1049,6 @@ Steps 124-129 in the lab procedure provide sample code and additional considerat
 
 Q16: What challenges did you encounter for Q14 and Q15? How did you address or solve them? 
 
-Q17: Include a link to your Replit project.
-
 # Lab Notebook Questions
 
 Q1: Open the `example.xlsx` file in a text editor. Describe what you see.
@@ -1127,5 +1125,3 @@ LAB STEPS in the lab procedure provide sample code and additional considerations
 - When loading a JSON file (or file-like object), we would need to use the `json.load()` argument.
 
 Q16: What challenges did you encounter for Q14 and Q15? How did you address or solve them? 
-
-Q17: Include a link to your Replit project.
