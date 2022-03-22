@@ -340,7 +340,7 @@ outputWriter = csv.writer(f)
 
 ```Python
 # write first row
-outputWriter.writerow(['Parameter', 'Name', 'Description')]
+outputWriter.writerow(['Parameter', 'Name', 'Description'])
 
 # write second row
 outputWriter.writerow(['t', 'Text', 'Treats file as text data; also the default value'])
